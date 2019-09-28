@@ -922,21 +922,3 @@ button.btn:hover i {
 	transition: all 0.5s ease-in-out 0s;
 }
 
-#footer p {
-	font-size: 12px;
-	letter-spacing: 0.1em;
-	color:#fff;
-	margin-top: 0;
-	text-transform: uppercase;
-}
-.hike-technical-data .ascent:before {
-	font-family: 'Font Awesome\ 5 Free';
-	content: '\f30c';
-	...
-}
-
-
-
-
-
-
