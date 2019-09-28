@@ -564,52 +564,6 @@ nav ul li a {
 }
  /**
  
- -------------------------------------------------------
-	                    06. Counter Up
- -------------------------------------------------------
- **/
-.dark-review {
-	background-color: #1e1e1e;
-}
-
-.item-heading h3 {
-	color: #ddd;
-	font-size: 17px;
-	line-height: 34px;
-	letter-spacing: 3px;
-	font-weight: 500;
-}
-
-.review-single-item {
-	text-align: center;
-	border: 1px dotted #fff;
-    padding: 20px 0px;
-}
-
-.item-text {
-	display: inline-block;
-}
-
-.item-text i {
-	font-size: 20px;
-	color: #f48b07;
-	padding-right: 10px;
-	display: inline-block;
-}
-
-.item-text span {
-	display: inline-block;
-	color: #ffffff;
-	font-size: 22px;
-	font-weight: 600;
-	letter-spacing: 3px;
-}
-
-.item-heading {
-	margin-top: 10px;
-}
-
-
 .timeline {
   position: relative;
   }
