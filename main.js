@@ -88,7 +88,7 @@ $(window).on("load", function() {
     //  pre-loader
     // ========================================================================= //
     
-    $(".pre-loader").fadeOut(10000);
+    $(".pre-loader").fadeOut(8000);
     
     
     var portfolioIsotope = $('.portfolio-container').isotope({
